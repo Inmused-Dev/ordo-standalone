@@ -38,15 +38,8 @@ Routing lives in the shared Caddyfile (`armature-infra/provision/Caddyfile`):
 
 No container restart needed — `site/` is bind-mounted.
 
-## First deploy (already done, kept for rebuild)
+## First deploy / rebuild
 
-```sh
-ssh vps-staidans
-sudo git clone https://github.com/Inmused-Dev/ordo-standalone.git /opt/ordo-standalone
-cd /opt/ordo-standalone && sudo docker compose up -d
-# add the ordo site block to the live Caddyfile (see armature-infra/provision/Caddyfile), then:
-sudo docker exec armature-caddy caddy reload --config /etc/caddy/Caddyfile
-```
-
-DNS: `ordo.staidans.org.au` is a Cloudflare-proxied record pointing at
-vps-staidans (swapped from render.com 2026-08).
+Step-by-step execution script: [runbooks/deploy-2026-08.md](runbooks/deploy-2026-08.md)
+(clone to `/opt/ordo-standalone`, `docker compose up -d`, add the Caddy route,
+verify, then swap the Cloudflare `ordo` record from render.com to the VPS).
