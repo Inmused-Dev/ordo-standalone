@@ -1,0 +1,23 @@
+# Ordo standalone — temporary public static liturgy site (throwaway until the
+# real Ordo app; see README). Serves ./site via nginx on the armature-prod
+# network; the shared Caddy (armature-infra) routes ordo.staidans.org.au here.
+#
+# Bring up on vps-staidans:   docker compose up -d
+# Update after a git pull:    nothing — ./site is bind-mounted read-only.
+
+name: ordo-standalone
+
+services:
+  ordo:
+    image: nginx:alpine
+    container_name: ordo-standalone
+    restart: unless-stopped
+    volumes:
+      # Only ./site is exposed — repo metadata (.git, compose, README) stays private.
+      - ./site:/usr/share/nginx/html:ro
+    networks:
+      - armature-prod
+
+networks:
+  armature-prod:
+    external: true   # created by armature-infra's provision-vps.sh
