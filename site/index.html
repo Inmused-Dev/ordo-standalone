@@ -60,6 +60,13 @@
     h1 { font-size: clamp(26px, 5vw, 34px); font-weight: 700; color: var(--text-strong); }
     .lede { font-size: 16px; color: var(--text-muted); margin-top: 8px; margin-bottom: 28px; }
 
+    /* Groups — Sundays / Weekdays / Pastoral. Only groups with entries appear. */
+    .group + .group { margin-top: 30px; }
+    .group__label {
+      font-size: 13px; font-weight: 700; letter-spacing: 0.04em;
+      color: var(--text-subtle); margin-bottom: 10px;
+    }
+
     /* Liturgy cards — whole card is the tap target, sized for tablets in hand */
     .list { list-style: none; display: flex; flex-direction: column; gap: 12px; }
     .lit {
@@ -103,9 +110,8 @@
     </header>
 
     <main>
-      <ul class="list" id="list">
-        <li class="state" id="state">Loading liturgies&hellip;</li>
-      </ul>
+      <div id="list"></div>
+      <p class="state" id="state">Loading liturgies&hellip;</p>
       <noscript><p class="state state--error">This page needs JavaScript to list the liturgies.</p></noscript>
     </main>
   </div>
@@ -127,7 +133,9 @@
           return;
         }
         list.innerHTML = "";
-        for (const l of liturgies) {
+        state.remove();
+
+        function card(l) {
           const li = document.createElement("li");
           const a = document.createElement("a");
           a.className = "lit";
@@ -153,7 +161,34 @@
 
           a.append(mark, body, go);
           li.append(a);
-          list.append(li);
+          return li;
+        }
+
+        /* Fixed order. Anything with no group, or a group not named here, falls
+           into "Other" rather than disappearing from the list. */
+        const GROUPS = [
+          ["sunday", "Sundays"],
+          ["weekday", "Weekdays"],
+          ["pastoral", "Pastoral"],
+        ];
+        const known = new Set(GROUPS.map(([key]) => key));
+
+        for (const [key, label] of GROUPS.concat([[null, "Other"]])) {
+          const inGroup = liturgies.filter((l) =>
+            key ? l.group === key : !known.has(l.group)
+          );
+          if (inGroup.length === 0) continue;
+
+          const section = document.createElement("section");
+          section.className = "group";
+          const heading = document.createElement("h2");
+          heading.className = "group__label";
+          heading.textContent = label;
+          const ul = document.createElement("ul");
+          ul.className = "list";
+          for (const l of inGroup) ul.append(card(l));
+          section.append(heading, ul);
+          list.append(section);
         }
       })
       .catch(() => {
