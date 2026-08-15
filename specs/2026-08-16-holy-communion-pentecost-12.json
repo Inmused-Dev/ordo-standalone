@@ -1,0 +1,607 @@
+{
+  "slug": "2026-08-16-holy-communion-pentecost-12",
+  "index": {
+    "title": "Sunday 16 August — Justice & Liberation",
+    "date": "2026",
+    "group": "sunday"
+  },
+  "pages": [
+    {
+      "label": "Holy Communion",
+      "blocks": [
+        {"type": "title",
+         "kicker": "St Aidan’s Anglican Church Strathmore",
+         "eyebrow": "Twelfth Sunday after Pentecost · Proper 15A",
+         "title": "Holy Communion",
+         "subtitle": "Sunday 16 August 2026"},
+        {"type": "spacer", "height": 26},
+        {"type": "lines", "margin": "0", "lines": [
+          "Sermon theme — Mercy that will not be sent away",
+          "Liturgy theme — Justice & Liberation",
+          "Readings — Romans 11:1–2a, 29–32 · Matthew 15:21–28"]}
+      ]
+    },
+
+    {
+      "label": "Opening Hymn",
+      "blocks": [
+        {"type": "eyebrow", "text": "Opening Hymn"},
+        {"type": "h2", "text": "The Servant King"},
+        {"type": "rubric", "text": "TIS 256 · Graham Kendrick", "margin": "16px 0 22px"},
+        {"type": "hymn", "verses": [
+          ["From heaven you came, helpless babe,",
+           "entered our world, your glory veiled;",
+           "not to be served, but to serve,",
+           "and give your life that we might live."],
+          ["This is our God, the Servant King,",
+           "he calls us now to follow him,",
+           "to bring our lives as a daily offering",
+           "of worship to the Servant King."],
+          ["There in the garden of tears,",
+           "my heavy load he chose to bear;",
+           "his heart with sorrow was torn,",
+           "‘Yet not my will, but yours’ he said."],
+          ["This is our God, the Servant King,",
+           "he calls us now to follow him,",
+           "to bring our lives as a daily offering",
+           "of worship to the Servant King."],
+          ["Come see his hands and his feet,",
+           "the scars that speak of sacrifice,",
+           "hands that flung stars into space",
+           "to cruel nails surrendered."],
+          ["This is our God, the Servant King,",
+           "he calls us now to follow him,",
+           "to bring our lives as a daily offering",
+           "of worship to the Servant King."],
+          ["So let us learn how to serve",
+           "and in our lives enthrone him;",
+           "each other’s needs to prefer,",
+           "for it is Christ we’re serving."],
+          ["This is our God, the Servant King,",
+           "he calls us now to follow him,",
+           "to bring our lives as a daily offering",
+           "of worship to the Servant King."]]},
+        {"type": "note", "text": "CCLI Song #78897 · © 1983 Thankyou Music · CCLI Licence #309884"}
+      ]
+    },
+
+    {
+      "label": "Gathering",
+      "blocks": [
+        {"type": "eyebrow", "text": "Movement 1 — Gathering in God’s Name"},
+        {"type": "h2", "text": "Gathering in God’s Name"},
+        {"type": "h3", "text": "The Greeting"},
+        {"type": "versicle", "call": "We are gathered in the name of God.", "response": "Amen"},
+        {"type": "versicle", "call": "The Lord be with you", "response": "and also with you."},
+        {"type": "h3", "text": "Call to Worship"},
+        {"type": "rubric", "text": "Justice & Liberation", "margin": "0 0 18px"},
+        {"type": "lines", "lines": [
+          "Come, let us gather at the table of freedom.",
+          "Divided yet longing for justice,",
+          ["wounded yet longing for freedom.", "all"]]},
+        {"type": "lines", "lines": [
+          "Come, lift your voices in praise to God.",
+          "Come, bring your hope and your struggle, your courage and your pain.",
+          ["We come, for all are welcome in Christ’s presence.", "all"]]},
+        {"type": "lines", "lines": [
+          "The Spirit of the Lord is upon us—",
+          ["to lift the lowly, to break the chains.", "all"]]},
+        {"type": "lines", "margin": "0", "lines": [
+          "Rise in body or in spirit, and let us worship.",
+          ["For God is here, setting people free.", "all"],
+          ["Amen.", "all"]]}
+      ]
+    },
+
+    {
+      "label": "Receiving God’s Mercy",
+      "blocks": [
+        {"type": "eyebrow", "text": "Receiving God’s Mercy"},
+        {"type": "h2", "text": "Receiving God’s Mercy"},
+        {"type": "h3", "text": "Invitation to Confession"},
+        {"type": "rubric", "text": "Division & Peace", "margin": "0 0 18px"},
+        {"type": "lines", "lines": [
+          "Before the God who makes us one,",
+          "we confess the ways we have sown division and withheld peace.",
+          "Come, bring your burdens and brokenness,",
+          "for in Christ mercy and reconciliation are offered to all."]},
+        {"type": "h3", "text": "Confession"},
+        {"type": "lines", "lines": [
+          ["Loving God,", "all"],
+          ["we admit that we have done wrong:", "all"],
+          ["in our thoughts, words, and actions.", "all"]]},
+        {"type": "lines", "lines": [
+          ["Please forgive us.", "all"],
+          ["Help us to change,", "all"],
+          ["and guide us in the future.", "all"]]},
+        {"type": "lines", "lines": [
+          ["Help us to live justly,", "all"],
+          ["to show mercy,", "all"],
+          ["and to walk humbly with you.", "all"],
+          ["Amen.", "all"]]},
+        {"type": "h3", "text": "Absolution"},
+        {"type": "lines", "lines": [
+          "God, the Source of mercy and renewal,",
+          "forgives you and sets you free."]},
+        {"type": "lines", "lines": [
+          "Christ restores you in his likeness,",
+          "that your life may reflect love and goodness."]},
+        {"type": "lines", "margin": "0", "lines": [
+          "The Holy Spirit strengthens you to walk the way of justice and peace.",
+          ["Amen.", "all"]]}
+      ]
+    },
+
+    {
+      "label": "Praise & Preparing to Listen",
+      "blocks": [
+        {"type": "eyebrow", "text": "Responding with Praise"},
+        {"type": "h2", "text": "Giving Praise"},
+        {"type": "rubric", "text": "Mercy Restores", "margin": "0 0 20px"},
+        {"type": "lines", "lines": [
+          "We give thanks to you, gracious God,",
+          ["for your mercy restores and your grace makes us whole.", "all"]]},
+        {"type": "lines", "lines": [
+          "You have drawn near in every age—",
+          ["freeing the captives, forgiving the broken, feeding the hungry.", "all"]]},
+        {"type": "lines", "lines": [
+          "From the beginning you made the world in goodness,",
+          ["a gift of grace where salvation is written in every living thing.", "all"]]},
+        {"type": "lines", "lines": [
+          "In Jesus, your Word became flesh,",
+          ["bringing salvation to the world and grace upon grace.", "all"]]},
+        {"type": "lines", "lines": [
+          "By your Spirit, you breathe life into our weary souls",
+          ["and set us again on the path of joy.", "all"]]},
+        {"type": "lines", "lines": [
+          "We give you thanks and praise,",
+          ["now and always. Amen.", "all"]]},
+        {"type": "spacer"},
+        {"type": "h2", "text": "Preparing to Listen"},
+        {"type": "rubric", "text": "Transition to the readings: Mercy that will not be sent away"},
+        {"type": "prose", "margin": "0 0 22px", "paragraphs": [
+          "Today from the Bible we will hear two stories about mercy that refuses to be narrowed.",
+          "From Paul’s letter to the Romans — God’s gifts and calling cannot be taken back. Whatever we have made of each other, God has not written anybody off.",
+          "From Matthew’s gospel — a foreign woman who will not be silenced, who argues with Jesus about the size of the table, and who wins."]},
+        {"type": "lines", "margin": "0", "lines": [
+          "Come, Holy Spirit.",
+          "Open our ears to the word that is near us.",
+          ["Speak, Lord — we are listening.", "all"]]}
+      ]
+    },
+
+    {
+      "label": "Readings",
+      "blocks": [
+        {"type": "eyebrow", "text": "Movement 2 — Bible and Teaching"},
+        {"type": "h2", "text": "Readings"},
+        {"type": "worktitle", "text": "Romans 11:1–2a, 29–32", "sub": "Supporting reading", "margin": "30px 0 18px"},
+        {"type": "lines", "margin": "0 0 20px", "lines": ["A reading from the letter of Paul to the Romans."]},
+        {"type": "prose", "margin": "0 0 22px", "paragraphs": [
+          "So I ask you, has God rejected his people? Absolutely not! I’m an Israelite, a descendant of Abraham, from the tribe of Benjamin. God hasn’t rejected his people, whom he knew in advance. Or don’t you know what the scripture says in the case of Elijah, when he pleads with God against Israel?",
+          "God’s gifts and calling can’t be taken back. Once you were disobedient to God, but now you have mercy because they were disobedient. In the same way, they have also been disobedient because of the mercy that you received, so now they can receive mercy too. God has locked up all people in disobedience, in order to have mercy on all of them."]},
+        {"type": "versicle", "call": "This is the word of the Lord", "response": "Thanks be to God"},
+        {"type": "spacer"},
+        {"type": "h2", "text": "Gospel"},
+        {"type": "worktitle", "text": "Matthew 15:21–28", "margin": "22px 0 18px"},
+        {"type": "lines", "lines": [
+          {"segments": [["Alleluia! ", ""], ["Alleluia!", "all"]]},
+          {"segments": [["Great is your faith; let it be done for you as you wish. ", ""], ["Alleluia!", "all"]]}]},
+        {"type": "versicle", "call": "The Lord be with you", "response": "And also with you"},
+        {"type": "versicle", "call": "A reading from the Good News according to Matthew.", "response": "Glory to you Lord Jesus Christ"},
+        {"type": "prose", "margin": "0 0 22px", "paragraphs": [
+          "From there, Jesus went to the regions of Tyre and Sidon. A Canaanite woman from those territories came out and shouted, “Show me mercy, Son of David. My daughter is suffering terribly from demon possession.” But he didn’t respond to her at all.",
+          "His disciples came and urged him, “Send her away; she keeps shouting out after us.”",
+          "Jesus replied, “I’ve been sent only to the lost sheep, the people of Israel.”",
+          "But she knelt before him and said, “Lord, help me.”",
+          "He replied, “It is not good to take the children’s bread and toss it to dogs.”",
+          "She said, “Yes, Lord. But even the dogs eat the crumbs that fall off their masters’ table.”",
+          "Jesus answered, “Woman, you have great faith. It will be just as you wish.” And right then her daughter was healed."]},
+        {"type": "versicle", "call": "This is the good news of the Lord", "response": "Praise to you Lord Jesus Christ", "margin": "0"}
+      ]
+    },
+
+    {
+      "label": "Teaching & Affirmation",
+      "blocks": [
+        {"type": "eyebrow", "text": "Teaching"},
+        {"type": "h2", "text": "Sermon"},
+        {"type": "rubric", "text": "Mercy that will not be sent away", "margin": "16px 0 8px"},
+        {"type": "lines", "margin": "0", "lines": ["Fr Glen"]},
+        {"type": "spacer"},
+        {"type": "h2", "text": "Affirming Our Faith"},
+        {"type": "lines", "margin": "22px 0 24px", "lines": [
+          ["We believe in God,", "all"],
+          ["maker of all,", "all"],
+          ["who raised Jesus to life", "all"],
+          ["and brings new life to the world.", "all"]]},
+        {"type": "lines", "lines": [
+          ["We believe in Christ,", "all"],
+          ["crucified and risen,", "all"],
+          ["alive forever—", "all"],
+          ["calling us to justice, joy, and peace.", "all"]]},
+        {"type": "lines", "lines": [
+          ["We believe the Spirit is with us,", "all"],
+          ["opening hearts,", "all"],
+          ["renewing minds,", "all"],
+          ["and breathing life into all creation.", "all"]]},
+        {"type": "lines", "lines": [
+          ["We believe the Church is Christ’s body—", "all"],
+          ["diverse, united,", "all"],
+          ["and welcoming all.", "all"],
+          ["We affirm the dignity of every person,", "all"],
+          ["and are called to love without exception.", "all"]]},
+        {"type": "lines", "margin": "0", "lines": [
+          ["This is our faith,", "all"],
+          ["our hope,", "all"],
+          ["our joy.", "all"],
+          ["Amen.", "all"]]}
+      ]
+    },
+
+    {
+      "label": "Prayers & Peace",
+      "blocks": [
+        {"type": "eyebrow", "text": "Movement 3 — Prayers and Peace"},
+        {"type": "h2", "text": "Prayers of the People"},
+        {"type": "rubric", "text": "Led by the rostered intercessor. Response throughout:"},
+        {"type": "versicle", "call": "Lord in your mercy", "response": "Hear our prayer"},
+        {"type": "h3", "text": "Prayer for St Aidan’s"},
+        {"type": "lines", "lines": [
+          ["God of Mission,", "all"],
+          ["you call us to share your love.", "all"],
+          ["Send your Holy Spirit to guide us", "all"],
+          ["in deepening our discipleship,", "all"],
+          ["in welcoming everyone,", "all"],
+          ["and in sharing your love with courage.", "all"]]},
+        {"type": "lines", "lines": [
+          ["Help St Aidan’s grow", "all"],
+          ["in faith, diversity,", "all"],
+          ["and service to our community.", "all"]]},
+        {"type": "h3", "text": "Conclusion to Prayers"},
+        {"type": "lines", "lines": [
+          ["Loving God, you hear our prayers.", "all"],
+          ["By your Spirit,", "all"],
+          ["guide us to live with open hearts,", "all"],
+          ["trusting in your presence", "all"],
+          ["and grace,", "all"],
+          ["through Jesus Christ our Lord. Amen.", "all"]]},
+        {"type": "spacer"},
+        {"type": "h2", "text": "The Greeting of Peace"},
+        {"type": "versicle", "call": "We are the body of Christ", "response": "His Spirit is with us", "margin": "22px 0 24px"},
+        {"type": "versicle", "call": "The peace of the Lord be with you", "response": "And also with you", "margin": "0"}
+      ]
+    },
+
+    {
+      "label": "Offertory Hymn",
+      "blocks": [
+        {"type": "eyebrow", "text": "Offertory"},
+        {"type": "h2", "text": "In Christ Alone"},
+        {"type": "rubric", "text": "Keith Getty & Stuart Townend", "margin": "16px 0 22px"},
+        {"type": "hymn", "verses": [
+          ["In Christ alone my hope is found",
+           "He is my light my strength my song",
+           "This Cornerstone this solid Ground",
+           "Firm through the fiercest drought and storm",
+           "What heights of love what depths of peace",
+           "When fears are stilled when strivings cease",
+           "My Comforter my All in All",
+           "Here in the love of Christ I stand"],
+          ["In Christ alone who took on flesh",
+           "Fullness of God in helpless babe",
+           "This gift of love and righteousness",
+           "Scorned by the ones He came to save",
+           "Till on that cross as Jesus died",
+           "The wrath of God was satisfied",
+           "For every sin on Him was laid",
+           "Here in the death of Christ I live"],
+          ["There in the ground His body lay",
+           "Light of the world by darkness slain",
+           "Then bursting forth in glorious Day",
+           "Up from the grave He rose again",
+           "And as He stands in victory",
+           "Sin’s curse has lost its grip on me",
+           "For I am His and He is mine",
+           "Bought with the precious blood of Christ"],
+          ["No guilt in life no fear in death",
+           "This is the power of Christ in me",
+           "From life’s first cry to final breath",
+           "Jesus commands my destiny",
+           "No power of hell no scheme of man",
+           "Can ever pluck me from His hand",
+           "Till He returns or calls me home",
+           "Here in the power of Christ I’ll stand"]]},
+        {"type": "note", "text": "CCLI Song #3350395 · © 2001 Thankyou Music · CCLI Licence #309884"}
+      ]
+    },
+
+    {
+      "label": "Thanksgiving Prayer",
+      "blocks": [
+        {"type": "eyebrow", "text": "Movement 4 — Thanksgiving Prayer"},
+        {"type": "h2", "text": "Introduction to Communion"},
+        {"type": "lines", "margin": "22px 0 24px", "lines": [
+          "Here we gather now at Christ’s table—",
+          "a table of justice and freedom."]},
+        {"type": "lines", "lines": [
+          "Here we remember his story.",
+          "Here we give thanks.",
+          "Everyone is welcome.",
+          "Come as you are."]},
+        {"type": "spacer"},
+        {"type": "h2", "text": "The Thanksgiving Prayer"},
+        {"type": "h3", "text": "Sursum Corda"},
+        {"type": "versicle", "call": "The Lord be with you.", "response": "And also with you."},
+        {"type": "versicle", "call": "Lift up your hearts.", "response": "We lift them to the Lord."},
+        {"type": "versicle", "call": "Let us give thanks to the Lord our God.", "response": "It is right to give our thanks and praise."},
+        {"type": "h3", "text": "Preface"},
+        {"type": "rubric", "text": "Justice & Liberation", "margin": "0 0 18px"},
+        {"type": "lines", "lines": [
+          "It is right to give you thanks,",
+          "God of justice and mercy."]},
+        {"type": "lines", "lines": [
+          "You created the world in love,",
+          "giving us land, water, people, and purpose.",
+          ["You called us to live in freedom and community.", "all"]]},
+        {"type": "lines", "lines": [
+          "You never gave up on us.",
+          "You sent prophets to challenge injustice",
+          "and show us a better way.",
+          "In Jesus, you came among us—",
+          ["healing, teaching,", "all"],
+          ["and walking the path of justice.", "all"]]},
+        {"type": "lines", "lines": [
+          "You created us in love",
+          ["and called us to live in freedom.", "all"]]},
+        {"type": "lines", "lines": [
+          "So with all who hunger for freedom,",
+          "we give you thanks and praise,",
+          "saying together:"]},
+        {"type": "lines", "margin": "0", "lines": [
+          ["Blessed is our God,", "all"],
+          ["who brings down the mighty", "all"],
+          ["and lifts up the lowly.", "all"],
+          ["Blessed is our God, forever.", "all"]]}
+      ]
+    },
+
+    {
+      "label": "Words of Institution",
+      "blocks": [
+        {"type": "eyebrow", "text": "Movement 5 — Institution to Doxology"},
+        {"type": "h2", "text": "Words of Institution"},
+        {"type": "h3", "text": "Bread"},
+        {"type": "lines", "margin": "0 0 24px", "lines": [
+          "On the night before he died,",
+          "Jesus shared a meal with his friends.",
+          "He took bread,",
+          "gave thanks,",
+          "broke it, and said:",
+          "Take, eat.",
+          "This is my body, given for you.",
+          "Do this to remember me.",
+          ["Lord my God.", "all"]]},
+        {"type": "h3", "text": "Wine"},
+        {"type": "lines", "margin": "0", "lines": [
+          "After supper, he took the cup,",
+          "gave thanks, and said:",
+          "Drink this, all of you.",
+          "This is my blood of the new covenant,",
+          "poured out for you and for all,",
+          "for the forgiveness of sin.",
+          "Do this to remember me.",
+          ["Lord my God.", "all"]]}
+      ]
+    },
+
+    {
+      "label": "Acclamation to Doxology",
+      "blocks": [
+        {"type": "eyebrow", "text": "Movement 5 — Institution to Doxology"},
+        {"type": "h2", "text": "Acclamation"},
+        {"type": "lines", "margin": "22px 0 24px", "lines": ["Let us proclaim the mystery of love."]},
+        {"type": "lines", "lines": [
+          ["Jesus died to bring us life.", "all"],
+          ["Jesus rose to bring us hope.", "all"],
+          ["Jesus will come again in love and glory.", "all"]]},
+        {"type": "h3", "text": "Epiclesis"},
+        {"type": "lines", "lines": [
+          "Send your Holy Spirit,",
+          "so this bread and this wine",
+          "may be for us the body and blood of Christ."]},
+        {"type": "lines", "lines": [
+          ["As we share this meal,", "all"],
+          ["make us one with each other,", "all"],
+          ["and one in Christ,", "all"],
+          ["our risen Lord.", "all"]]},
+        {"type": "h3", "text": "Doxology"},
+        {"type": "lines", "lines": [
+          "With your Church across all of creation,",
+          "we give you thanks and praise,",
+          "joining the unending song:"]},
+        {"type": "lines", "margin": "0", "lines": [
+          ["Holy, holy, holy Lord,", "all"],
+          ["God of power and might,", "all"],
+          ["Heaven and earth are full of your glory.", "all"],
+          ["Praise to you in the highest.", "all"]]}
+      ]
+    },
+
+    {
+      "label": "Lord’s Prayer to Receiving",
+      "blocks": [
+        {"type": "eyebrow", "text": "Movement 6 — Lord’s Prayer to Receiving"},
+        {"type": "h2", "text": "The Lord’s Prayer"},
+        {"type": "lines", "margin": "22px 0 24px", "lines": [
+          ["Father, uphold the holiness of your name.", "all"],
+          ["Bring in your kingdom.", "all"],
+          ["Give us the bread we need for today.", "all"],
+          ["Forgive us our sins,", "all"],
+          ["for we also forgive everyone who has wronged us.", "all"],
+          ["And save us in times of trial.", "all"]]},
+        {"type": "lines", "lines": [
+          ["For you are worthy,", "all"],
+          ["our Lord and God,", "all"],
+          ["to receive glory and honour and power,", "all"],
+          ["because you created all things.", "all"],
+          ["Amen", "all"]]},
+        {"type": "h3", "text": "Breaking the Bread"},
+        {"type": "lines", "lines": [
+          "This bread is broken,",
+          "for Jesus gave himself for us.",
+          ["In this act of love, we are made whole.", "all"]]},
+        {"type": "h3", "text": "Invitation to Communion"},
+        {"type": "lines", "margin": "0", "lines": [
+          "The gifts of God for the people of God.",
+          ["Graciously nourish us, O Christ,", "all"],
+          ["so that we who try to follow you", "all"],
+          ["may receive food for the journey", "all"],
+          ["and be bound in solidarity", "all"],
+          ["with all who walk in your way.", "all"],
+          ["Amen", "all"]]}
+      ]
+    },
+
+    {
+      "label": "Communion Anthem",
+      "blocks": [
+        {"type": "eyebrow", "text": "Communion Anthem"},
+        {"type": "h2", "text": "Jesus Christ, Be the Wine of Grace"},
+        {"type": "spacer", "height": 22},
+        {"type": "hymn", "verses": [
+          ["In the singing, in the silence,",
+           "in the hands expectant, open,",
+           "in the blessing, in the breaking,",
+           "in the presence at this table"],
+          ["Jesus Christ, Jesus Christ,",
+           "be the wine of grace.",
+           "Jesus Christ, Jesus Christ,",
+           "be the bread of peace."],
+          ["In the question, in the answer,",
+           "in the moment of acceptance,",
+           "in the heart’s cry, in the healing,",
+           "in the circle of your people."],
+          ["Jesus Christ, Jesus Christ,",
+           "be the wine of grace.",
+           "Jesus Christ, Jesus Christ,",
+           "be the bread of peace."]]}
+      ]
+    },
+
+    {
+      "label": "Communion Hymn",
+      "blocks": [
+        {"type": "eyebrow", "text": "Communion Hymn"},
+        {"type": "h2", "text": "Amazing Grace"},
+        {"type": "rubric", "text": "TIS 129 · Four verses. TIS wording.", "margin": "16px 0 22px"},
+        {"type": "hymn", "verses": [
+          ["Amazing grace, how sweet the sound",
+           "that saved a wretch like me!",
+           "I once was lost, but now am found,",
+           "was blind, but now I see."],
+          ["As grace first taught my heart to fear,",
+           "so grace my fears relieved;",
+           "how precious did that grace appear,",
+           "the hour I first believed!"],
+          ["Through many dangers, toils and snares",
+           "I have already come;",
+           "God’s grace has brought me safe thus far,",
+           "and grace will lead me home."],
+          ["The Lord has promised good to me,",
+           "his word my hope secures;",
+           "he will my shield and portion be",
+           "as long as life endures."]]},
+        {"type": "note", "text": "John Newton, 1779. Public domain."}
+      ]
+    },
+
+    {
+      "label": "Sending Out",
+      "blocks": [
+        {"type": "eyebrow", "text": "Movement 7 — Sending Out God’s People"},
+        {"type": "h2", "text": "Prayer after Communion"},
+        {"type": "lines", "margin": "22px 0 24px", "lines": [
+          "Saving God,",
+          "we thank you for feeding us with grace beyond measure.",
+          "Send us out to share this gift freely,",
+          "so that all may know your love and salvation."]},
+        {"type": "h3", "text": "Gratitude for Communion"},
+        {"type": "lines", "lines": [
+          ["Lord,", "all"],
+          ["we have broken your bread", "all"],
+          ["and received your life.", "all"],
+          ["By the power of your Spirit", "all"],
+          ["keep us always in your love", "all"],
+          ["through Jesus Christ our Lord.", "all"],
+          ["Amen", "all"]]},
+        {"type": "spacer"},
+        {"type": "h2", "text": "Announcements"},
+        {"type": "rubric", "text": "Notices", "margin": "16px 0 0"}
+      ]
+    },
+
+    {
+      "label": "Blessing & Dismissal",
+      "blocks": [
+        {"type": "eyebrow", "text": "Movement 7 — Sending Out God’s People"},
+        {"type": "h2", "text": "The Blessing"},
+        {"type": "versicle", "call": "The Lord be with you", "response": "And also with you", "margin": "22px 0 24px"},
+        {"type": "lines", "lines": [
+          "May the God whose gifts and calling",
+          "are never taken back",
+          "hold you fast;"]},
+        {"type": "lines", "lines": [
+          "may the Christ who was argued with at the border",
+          "and answered with mercy",
+          "give you a bold and persistent heart;"]},
+        {"type": "lines", "lines": [
+          "and may the Spirit who breathes life into all things",
+          "send you out to widen the table."]},
+        {"type": "lines", "lines": [
+          "And the blessing of God almighty,",
+          "the Father, the Son, and the Holy Spirit,",
+          "be among you and remain with you always.",
+          ["Amen.", "all"]]},
+        {"type": "spacer"},
+        {"type": "h2", "text": "Dismissal"},
+        {"type": "versicle", "call": "Go in peace, to love and serve the Lord", "response": "In the name of Christ. Amen.", "margin": "22px 0 0"}
+      ]
+    },
+
+    {
+      "label": "Final Hymn",
+      "blocks": [
+        {"type": "eyebrow", "text": "Final Hymn"},
+        {"type": "h2", "text": "The Church’s One Foundation"},
+        {"type": "rubric", "text": "TIS 457 · Sung after the dismissal. Verses 1, 2 and 5. Verses 3 and 4 omitted.", "margin": "16px 0 22px"},
+        {"type": "hymn", "verses": [
+          ["The church’s one foundation",
+           "is Jesus Christ her Lord:",
+           "she is his new creation",
+           "by water and the word;",
+           "from heaven he came and sought her",
+           "to be his holy bride;",
+           "with his own blood he bought her,",
+           "and for her life he died."],
+          ["Elect from every nation,",
+           "yet one o’er all the earth,",
+           "her charter of salvation",
+           "one Lord, one faith, one birth,",
+           "one holy name she blesses,",
+           "partakes one holy food,",
+           "and to one hope she presses,",
+           "with every grace endued."],
+          ["Yet she on earth has union",
+           "with God the Three in One,",
+           "and mystic sweet communion",
+           "with those whose rest is won.",
+           "O happy ones and holy!",
+           "Lord, give to us grace,",
+           "like them, the meek and lowly,",
+           "in heaven to seek your face."]]},
+        {"type": "note", "text": "Samuel John Stone, 1866. Public domain."}
+      ]
+    }
+  ]
+}
