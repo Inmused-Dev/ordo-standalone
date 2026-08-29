@@ -467,39 +467,6 @@
       ]
     },
     {
-      "label": "Preparing to Listen",
-      "blocks": [
-        {
-          "type": "eyebrow",
-          "text": "Bible and Teaching"
-        },
-        {
-          "type": "h2",
-          "text": "Preparing to Listen"
-        },
-        {
-          "type": "prose",
-          "paragraphs": [
-            "Today from the Bible we will hear two stories about being trusted before we are ready.",
-            "From Paul’s letter to the Ephesians — gifts handed out to a church that is still growing up, so that every part of it has something to do and the body builds itself up in love.",
-            "From Matthew’s gospel — eleven men on a mountain in Galilee, some of them still doubting, and Jesus sends them out anyway, doubt and all."
-          ]
-        },
-        {
-          "type": "lines",
-          "margin": "0",
-          "lines": [
-            "Come, Holy Spirit.",
-            "Open our ears to the word that is near us.",
-            [
-              "Speak, Lord — we are listening.",
-              "all"
-            ]
-          ]
-        }
-      ]
-    },
-    {
       "label": "Ephesians 4",
       "blocks": [
         {
@@ -1445,6 +1412,10 @@
               "And the earth is filled with Your glory"
             ]
           ]
+        },
+        {
+          "type": "note",
+          "text": "© 2005 Thankyou Music Ltd · CCLI 4615235"
         }
       ]
     },
