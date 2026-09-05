@@ -1154,51 +1154,6 @@
       ]
     },
     {
-      "label": "Communion Anthem",
-      "blocks": [
-        {
-          "type": "eyebrow",
-          "text": "Communion Anthem"
-        },
-        {
-          "type": "h2",
-          "text": "Jesus Christ, Be the Wine of Grace"
-        },
-        {
-          "type": "spacer"
-        },
-        {
-          "type": "hymn",
-          "verses": [
-            [
-              "In the singing, in the silence,",
-              "in the hands expectant, open,",
-              "in the blessing, in the breaking,",
-              "in the presence at this table"
-            ],
-            [
-              "Jesus Christ, Jesus Christ,",
-              "be the wine of grace.",
-              "Jesus Christ, Jesus Christ,",
-              "be the bread of peace."
-            ],
-            [
-              "In the question, in the answer,",
-              "in the moment of acceptance,",
-              "in the heart’s cry, in the healing,",
-              "in the circle of your people."
-            ],
-            [
-              "Jesus Christ, Jesus Christ,",
-              "be the wine of grace.",
-              "Jesus Christ, Jesus Christ,",
-              "be the bread of peace."
-            ]
-          ]
-        }
-      ]
-    },
-    {
       "label": "Sending Out",
       "blocks": [
         {
