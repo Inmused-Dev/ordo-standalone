@@ -1,0 +1,22 @@
+# Dependabot — dependency scanning.
+#
+# ! Dependabot reads this file ONLY from the default branch (main). A copy on any other
+#   branch is inert and warns about nothing — it fails by doing nothing at all.
+#
+# ! Alerts must ALSO be switched on at the repo level; this file governs routine version
+#   updates only, not security alerts:
+#     gh api -X PUT repos/Inmused-Dev/<repo>/vulnerability-alerts
+#     gh api -X PUT repos/Inmused-Dev/<repo>/automated-security-fixes
+#   Both were OFF on every Armature repo until 2026-09-11.
+#
+# ! Security-fix PRs always target the DEFAULT branch regardless of target-branch below,
+#   so expect two streams: routine version bumps to the target branch, security fixes to main.
+#
+# ordo-standalone is PUBLIC and temporary (the liturgy tablet site). No lockfiles and no
+# workflows, so the only dependency surface is the compose file.
+version: 2
+updates:
+  - package-ecosystem: "docker-compose"
+    directory: "/"
+    schedule: { interval: "weekly", day: "monday" }
+    commit-message: { prefix: "chore(deps)" }
