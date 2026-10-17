@@ -25,7 +25,7 @@
           "margin": "0",
           "lines": [
             "Liturgy theme — Justice & Liberation",
-            "Readings — Isaiah 45:1–7 · Matthew 22:15–22"
+            "Readings — Isaiah 45:1–7 · Matthew 22:15–33"
           ]
         }
       ]
@@ -427,7 +427,7 @@
         },
         {
           "type": "worktitle",
-          "text": "Matthew 22:15–22",
+          "text": "Matthew 22:15–33",
           "margin": "22px 0 18px"
         },
         {
