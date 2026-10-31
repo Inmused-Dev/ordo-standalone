@@ -734,21 +734,7 @@
               "and breathing life into all creation.",
               "all"
             ]
-          ],
-          "margin": "0"
-        }
-      ]
-    },
-    {
-      "label": "Affirmation (cont.)",
-      "blocks": [
-        {
-          "type": "eyebrow",
-          "text": "Bible and Teaching"
-        },
-        {
-          "type": "h2",
-          "text": "Affirmation (cont.)"
+          ]
         },
         {
           "type": "lines",
