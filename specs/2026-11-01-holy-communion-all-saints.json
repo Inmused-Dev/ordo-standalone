@@ -463,21 +463,7 @@
             "Victory belongs to our God",
             "who sits on the throne,",
             "and to the Lamb."
-          ],
-          "margin": "0"
-        }
-      ]
-    },
-    {
-      "label": "Revelation 7 (cont.)",
-      "blocks": [
-        {
-          "type": "eyebrow",
-          "text": "Bible and Teaching"
-        },
-        {
-          "type": "h2",
-          "text": "First Reading (cont.)"
+          ]
         },
         {
           "type": "prose",
@@ -504,21 +490,7 @@
           "type": "lines",
           "lines": [
             "I said to him, “Sir, you know.”"
-          ],
-          "margin": "0"
-        }
-      ]
-    },
-    {
-      "label": "Revelation 7 (end)",
-      "blocks": [
-        {
-          "type": "eyebrow",
-          "text": "Bible and Teaching"
-        },
-        {
-          "type": "h2",
-          "text": "First Reading (cont.)"
+          ]
         },
         {
           "type": "prose",
@@ -602,21 +574,7 @@
               "Glory to you Lord Jesus Christ",
               "all"
             ]
-          ],
-          "margin": "0"
-        }
-      ]
-    },
-    {
-      "label": "Gospel (cont.)",
-      "blocks": [
-        {
-          "type": "eyebrow",
-          "text": "Bible and Teaching"
-        },
-        {
-          "type": "h2",
-          "text": "Gospel (cont.)"
+          ]
         },
         {
           "type": "prose",
@@ -646,21 +604,7 @@
           "type": "lines",
           "lines": [
             "“Happy are people who are hungry and thirsty for righteousness, because they will be fed until they are full."
-          ],
-          "margin": "0"
-        }
-      ]
-    },
-    {
-      "label": "Gospel (end)",
-      "blocks": [
-        {
-          "type": "eyebrow",
-          "text": "Bible and Teaching"
-        },
-        {
-          "type": "h2",
-          "text": "Gospel (cont.)"
+          ]
         },
         {
           "type": "lines",
