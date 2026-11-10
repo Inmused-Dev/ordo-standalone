@@ -1,0 +1,667 @@
+{
+  "slug": "2026-11-11-remembrance-day",
+  "index": {
+    "title": "Remembrance Day",
+    "date": "11 November 2026 · civic service",
+    "group": "pastoral"
+  },
+  "pages": [
+    {
+      "label": "Remembrance Day",
+      "blocks": [
+        {
+          "type": "title",
+          "kicker": "St Aidan’s Anglican Church Strathmore",
+          "eyebrow": "A civic service of remembrance and hope",
+          "title": "Remembrance Day",
+          "subtitle": "Wednesday 11 November 2026"
+        },
+        {
+          "type": "spacer",
+          "height": 26
+        },
+        {
+          "type": "lines",
+          "lines": [
+            "11 am · church forecourt",
+            "About 18 minutes · no Holy Communion"
+          ]
+        },
+        {
+          "type": "rubric",
+          "text": "Timing: the service begins at 11 am. Keep the Greeting, Acknowledgement and Welcome brief so the minute’s silence falls as close to 11 am as possible; if needed, go straight from the Greeting to the Act of Remembrance."
+        },
+        {
+          "type": "rubric",
+          "text": "St Aidan’s is a neurodiversity-affirming parish. The bell, the Last Post and the Rouse are loud: let people know beforehand, and that stepping back, ear defenders, sitting and moving about are all welcome.",
+          "margin": "0"
+        }
+      ]
+    },
+    {
+      "label": "Gathering",
+      "blocks": [
+        {
+          "type": "eyebrow",
+          "text": "Gathering in God’s Name"
+        },
+        {
+          "type": "h2",
+          "text": "Gathering in God’s Name"
+        },
+        {
+          "type": "h3",
+          "text": "Greeting"
+        },
+        {
+          "type": "versicle",
+          "call": "We are gathered in the name of the God of peace.",
+          "response": "Amen."
+        },
+        {
+          "type": "h3",
+          "text": "Acknowledgement of Country"
+        },
+        {
+          "type": "prose",
+          "paragraphs": [
+            "We meet on the land of the Wurundjeri people of the Kulin Nation. We pay our respects to their Elders past and present, and we remember the Aboriginal and Torres Strait Islander people who served in Australia’s forces, often without the rights of citizens and long without recognition."
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "Welcome"
+        },
+        {
+          "type": "rubric",
+          "text": "The leader welcomes everyone in their own words, including any guests, veterans, local residents and families. Keep it brief.",
+          "margin": "0"
+        }
+      ]
+    },
+    {
+      "label": "Sentence",
+      "blocks": [
+        {
+          "type": "eyebrow",
+          "text": "Gathering in God’s Name"
+        },
+        {
+          "type": "h2",
+          "text": "Sentence"
+        },
+        {
+          "type": "lines",
+          "lines": [
+            "What does the Lord require of you",
+            "but to do justice, and to love kindness,",
+            "and to walk humbly with your God?"
+          ],
+          "margin": "22px 0 0"
+        },
+        {
+          "type": "rubric",
+          "text": "Micah 6:8",
+          "margin": "6px 0 26px"
+        },
+        {
+          "type": "lines",
+          "lines": [
+            "On the eleventh hour of the eleventh day of the eleventh month",
+            "the guns fell silent."
+          ]
+        },
+        {
+          "type": "lines",
+          "lines": [
+            "We gather to remember with thanksgiving and sorrow",
+            "all whose lives, in wars and conflicts past and present,",
+            "have been given and taken away;",
+            "to hold before God those who still carry the wounds of war",
+            "in body, mind and memory;",
+            "and to commit ourselves again to the hard work of peace."
+          ],
+          "margin": "0"
+        }
+      ]
+    },
+    {
+      "label": "Act of Remembrance",
+      "blocks": [
+        {
+          "type": "eyebrow",
+          "text": "Act of Remembrance"
+        },
+        {
+          "type": "h2",
+          "text": "Act of Remembrance"
+        },
+        {
+          "type": "rubric",
+          "text": "All who are able stand. Flags at half-mast during this section, if flown."
+        },
+        {
+          "type": "h3",
+          "text": "The Ode"
+        },
+        {
+          "type": "rubric",
+          "text": "Read by a nominated reader."
+        },
+        {
+          "type": "lines",
+          "lines": [
+            "They shall grow not old, as we that are left grow old;",
+            "Age shall not weary them, nor the years condemn.",
+            "At the going down of the sun and in the morning",
+            "We will remember them.",
+            [
+              "We will remember them.",
+              "all"
+            ]
+          ]
+        },
+        {
+          "type": "h3",
+          "text": "The Last Post"
+        },
+        {
+          "type": "rubric",
+          "text": "Played live or recorded."
+        },
+        {
+          "type": "h3",
+          "text": "One Minute’s Silence"
+        },
+        {
+          "type": "rubric",
+          "text": "The bell marks the beginning and the end of the silence, kept as close to 11 am as possible."
+        },
+        {
+          "type": "h3",
+          "text": "The Rouse"
+        },
+        {
+          "type": "rubric",
+          "text": "Played live or recorded. Flags are raised to the masthead.",
+          "margin": "0"
+        }
+      ]
+    },
+    {
+      "label": "Prayer",
+      "blocks": [
+        {
+          "type": "eyebrow",
+          "text": "Act of Remembrance"
+        },
+        {
+          "type": "h2",
+          "text": "Prayer"
+        },
+        {
+          "type": "lines",
+          "lines": [
+            "Ever-living God,",
+            "we remember those whom you have gathered",
+            "from the storm of war into the peace of your presence.",
+            "May that same peace calm our fears,",
+            "bring justice to all peoples,",
+            "and establish harmony among the nations;",
+            "through Jesus Christ our Lord.",
+            [
+              "Amen.",
+              "all"
+            ]
+          ],
+          "margin": "22px 0 22px"
+        },
+        {
+          "type": "rubric",
+          "text": "All may sit.",
+          "margin": "0"
+        }
+      ]
+    },
+    {
+      "label": "Isaiah 2",
+      "blocks": [
+        {
+          "type": "eyebrow",
+          "text": "Hearing God’s Word"
+        },
+        {
+          "type": "h2",
+          "text": "Reading"
+        },
+        {
+          "type": "rubric",
+          "text": "Read by a nominated reader from the Common English Bible.",
+          "margin": "16px 0 0"
+        },
+        {
+          "type": "worktitle",
+          "text": "Isaiah 2:4–5",
+          "margin": "30px 0 18px"
+        },
+        {
+          "type": "lines",
+          "lines": [
+            "A reading from the prophet Isaiah."
+          ],
+          "margin": "0 0 20px"
+        },
+        {
+          "type": "lines",
+          "lines": [
+            "God will judge between the nations,",
+            "and settle disputes of mighty nations.",
+            "Then they will beat their swords into iron plows",
+            "and their spears into pruning tools.",
+            "Nation will not take up sword against nation;",
+            "they will no longer learn how to make war."
+          ]
+        },
+        {
+          "type": "lines",
+          "lines": [
+            "Come, house of Jacob,",
+            "let’s walk by the LORD’s light."
+          ]
+        },
+        {
+          "type": "spacer"
+        },
+        {
+          "type": "h2",
+          "text": "Reflection"
+        },
+        {
+          "type": "rubric",
+          "text": "A short reflection by the leader, about three minutes.",
+          "margin": "16px 0 0"
+        }
+      ]
+    },
+    {
+      "label": "Prayers for Peace (1)",
+      "blocks": [
+        {
+          "type": "eyebrow",
+          "text": "Prayers for Peace"
+        },
+        {
+          "type": "h2",
+          "text": "Prayers for Peace"
+        },
+        {
+          "type": "lines",
+          "lines": [
+            "Let us pray for all who suffer because of war,",
+            "and ask God for peace.",
+            "The response to “God of peace” is “hear our prayer”."
+          ],
+          "margin": "22px 0 24px"
+        },
+        {
+          "type": "lines",
+          "lines": [
+            "For the service men and women who have died",
+            "in war and in peace operations,",
+            "each one known to God and held in God’s love.",
+            "God of peace,",
+            [
+              "hear our prayer.",
+              "all"
+            ]
+          ]
+        },
+        {
+          "type": "lines",
+          "lines": [
+            "For veterans of all conflicts and their families:",
+            "for those who live with seen and unseen injury and grief;",
+            "and for all who care for them.",
+            "God of peace,",
+            [
+              "hear our prayer.",
+              "all"
+            ]
+          ]
+        },
+        {
+          "type": "lines",
+          "lines": [
+            "For members of the Australian Defence Force serving today,",
+            "here in Australia,",
+            "and those serving operationally in the Middle East,",
+            "Sudan, North Asia, and in support of Ukraine,",
+            "and for those who wait for them to come home.",
+            "God of peace,",
+            [
+              "hear our prayer.",
+              "all"
+            ]
+          ],
+          "margin": "0"
+        }
+      ]
+    },
+    {
+      "label": "Prayers for Peace (2)",
+      "blocks": [
+        {
+          "type": "eyebrow",
+          "text": "Prayers for Peace"
+        },
+        {
+          "type": "h2",
+          "text": "Prayers for Peace"
+        },
+        {
+          "type": "lines",
+          "lines": [
+            "For civilians whose lives are wounded and displaced",
+            "by war around the world;",
+            "especially in Palestine, Ukraine, Myanmar,",
+            "the Middle East, North Africa,",
+            "and for refugees who have fled conflict to live among us.",
+            "God of peace,",
+            [
+              "hear our prayer.",
+              "all"
+            ]
+          ],
+          "margin": "22px 0 24px"
+        },
+        {
+          "type": "lines",
+          "lines": [
+            "For peacemakers and peacekeepers,",
+            "for conscientious objectors through the ages,",
+            "and for all leaders who hold the power",
+            "to choose peace over destruction.",
+            "God of peace,",
+            [
+              "hear our prayer.",
+              "all"
+            ]
+          ]
+        },
+        {
+          "type": "lines",
+          "lines": [
+            "For the First Peoples of this land",
+            "who served a nation that did not recognise them,",
+            "and for the frontier wars",
+            "still waiting to be truthfully remembered:",
+            "lead us into true reconciliation.",
+            "God of peace,",
+            [
+              "hear our prayer.",
+              "all"
+            ]
+          ],
+          "margin": "0"
+        }
+      ]
+    },
+    {
+      "label": "Closing & Lord’s Prayer",
+      "blocks": [
+        {
+          "type": "eyebrow",
+          "text": "Prayers for Peace"
+        },
+        {
+          "type": "h2",
+          "text": "Prayers for Peace"
+        },
+        {
+          "type": "lines",
+          "lines": [
+            "God of truth and justice,",
+            "we hold before you those whose memory we cherish",
+            "and those whose names we will never know.",
+            "As we honour the past, may we trust your future;",
+            "for you are the source of life and hope,",
+            "now and for ever.",
+            [
+              "Amen.",
+              "all"
+            ]
+          ],
+          "margin": "22px 0 0"
+        },
+        {
+          "type": "spacer"
+        },
+        {
+          "type": "h2",
+          "text": "The Lord’s Prayer"
+        },
+        {
+          "type": "lines",
+          "lines": [
+            "As Christ has taught us, we pray:",
+            [
+              "Our Father in heaven,",
+              "all"
+            ],
+            [
+              "hallowed be your name,",
+              "all"
+            ],
+            [
+              "your kingdom come,",
+              "all"
+            ],
+            [
+              "your will be done, on earth as in heaven.",
+              "all"
+            ],
+            [
+              "Give us today our daily bread.",
+              "all"
+            ],
+            [
+              "Forgive us our sins as we forgive those who sin against us.",
+              "all"
+            ],
+            [
+              "Save us from the time of trial and deliver us from evil.",
+              "all"
+            ],
+            [
+              "For the kingdom, the power and the glory are yours,",
+              "all"
+            ],
+            [
+              "now and for ever. Amen.",
+              "all"
+            ]
+          ],
+          "margin": "22px 0 0"
+        }
+      ]
+    },
+    {
+      "label": "Flanders Fields",
+      "blocks": [
+        {
+          "type": "eyebrow",
+          "text": "Responding in Hope"
+        },
+        {
+          "type": "h2",
+          "text": "Laying of Wreaths and Flowers"
+        },
+        {
+          "type": "rubric",
+          "text": "Anyone may come forward to lay a wreath, a poppy, flowers or a sprig of rosemary at the memorial. Quiet music may be played. When everyone has returned, In Flanders Fields is read, then the Kohima Epitaph is said.",
+          "margin": "16px 0 0"
+        },
+        {
+          "type": "worktitle",
+          "text": "In Flanders Fields",
+          "sub": "John McCrae, 1915",
+          "margin": "30px 0 18px"
+        },
+        {
+          "type": "lines",
+          "lines": [
+            "In Flanders fields the poppies blow",
+            "Between the crosses, row on row,",
+            "That mark our place; and in the sky",
+            "The larks, still bravely singing, fly",
+            "Scarce heard amid the guns below."
+          ]
+        },
+        {
+          "type": "lines",
+          "lines": [
+            "We are the Dead. Short days ago",
+            "We lived, felt dawn, saw sunset glow,",
+            "Loved and were loved, and now we lie",
+            "In Flanders fields."
+          ],
+          "margin": "0"
+        }
+      ]
+    },
+    {
+      "label": "Commitment",
+      "blocks": [
+        {
+          "type": "eyebrow",
+          "text": "Responding in Hope"
+        },
+        {
+          "type": "h2",
+          "text": "Kohima Epitaph"
+        },
+        {
+          "type": "lines",
+          "lines": [
+            "When you go home, tell them of us and say:",
+            "for your tomorrow, we gave our today."
+          ],
+          "margin": "22px 0 0"
+        },
+        {
+          "type": "spacer"
+        },
+        {
+          "type": "h2",
+          "text": "The Commitment"
+        },
+        {
+          "type": "lines",
+          "lines": [
+            "Let us commit ourselves to responsible living and faithful service.",
+            {
+              "segments": [
+                [
+                  "The response to each commitment is “",
+                  ""
+                ],
+                [
+                  "We will.",
+                  "all"
+                ],
+                [
+                  "”",
+                  ""
+                ]
+              ]
+            }
+          ],
+          "margin": "22px 0 24px"
+        },
+        {
+          "type": "versicle",
+          "call": "Will you strive for all that makes for peace?",
+          "response": "We will."
+        },
+        {
+          "type": "versicle",
+          "call": "Will you seek to heal the wounds of war?",
+          "response": "We will."
+        },
+        {
+          "type": "versicle",
+          "call": "Will you work for a just future for all humanity?",
+          "response": "We will."
+        },
+        {
+          "type": "lines",
+          "lines": [
+            "Merciful God,",
+            "we offer you the fears in us",
+            "that have not yet been cast out by love.",
+            "May we receive the hope you have placed in every human heart,",
+            "and live lives of justice, courage and mercy;",
+            "through Jesus Christ our risen Redeemer.",
+            [
+              "Amen.",
+              "all"
+            ]
+          ],
+          "margin": "0"
+        }
+      ]
+    },
+    {
+      "label": "Sending Out",
+      "blocks": [
+        {
+          "type": "eyebrow",
+          "text": "Sending Out"
+        },
+        {
+          "type": "h2",
+          "text": "Blessing"
+        },
+        {
+          "type": "versicle",
+          "call": "The Lord be with you.",
+          "response": "And also with you.",
+          "margin": "22px 0 24px"
+        },
+        {
+          "type": "lines",
+          "lines": [
+            "God grant to the living grace,",
+            "to the departed rest,",
+            "to the Church, the nation and all people",
+            "unity, peace and concord,",
+            "and to us and all God’s servants life everlasting;",
+            "and the blessing of God, Source, Word and Spirit,",
+            "be among you and remain with you always.",
+            [
+              "Amen.",
+              "all"
+            ]
+          ]
+        },
+        {
+          "type": "spacer"
+        },
+        {
+          "type": "h2",
+          "text": "Dismissal"
+        },
+        {
+          "type": "versicle",
+          "call": "Go in peace to love and serve each other.",
+          "response": "Amen.",
+          "margin": "22px 0 30px"
+        },
+        {
+          "type": "note",
+          "text": "Material adapted from A Prayer Book for Australia © 1995 The Anglican Church of Australia Trust Corporation, and Common Worship: Services and Prayers for the Church of England © The Archbishops’ Council 2000. Scripture from the Common English Bible © 2012. Service shape informed by the Department of Veterans’ Affairs Remembrance Day kitbag (CC BY 4.0)."
+        }
+      ]
+    }
+  ]
+}
