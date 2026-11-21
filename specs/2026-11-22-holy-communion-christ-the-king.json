@@ -31,7 +31,7 @@
    ]
   },
   {
-   "label": "Gathering Hymn (1–3)",
+   "label": "Gathering Hymn",
    "blocks": [
     {
      "type": "eyebrow",
@@ -43,7 +43,7 @@
     },
     {
      "type": "rubric",
-     "text": "TIS 145 · verses 1–3",
+     "text": "TIS 145 · verses 1–6",
      "margin": "16px 0 22px"
     },
     {
@@ -66,34 +66,7 @@
        "but yet in love he sought me,",
        "and on his shoulder gently laid,",
        "and home rejoicing brought me."
-      ]
-     ]
-    },
-    {
-     "type": "note",
-     "text": "CCLI Licence #309884"
-    }
-   ]
-  },
-  {
-   "label": "Gathering Hymn (4–6)",
-   "blocks": [
-    {
-     "type": "eyebrow",
-     "text": "Gathering Hymn"
-    },
-    {
-     "type": "h2",
-     "text": "The King of Love My Shepherd Is"
-    },
-    {
-     "type": "rubric",
-     "text": "TIS 145 · verses 4–6",
-     "margin": "16px 0 22px"
-    },
-    {
-     "type": "hymn",
-     "verses": [
+      ],
       [
        "In death’s dark vale I fear no ill",
        "with thee, dear Lord, beside me;",
@@ -868,7 +841,7 @@
    ]
   },
   {
-   "label": "Offertory Hymn (1–2)",
+   "label": "Offertory Hymn",
    "blocks": [
     {
      "type": "eyebrow",
@@ -880,7 +853,7 @@
     },
     {
      "type": "rubric",
-     "text": "SoG 787 · verses 1 & 3 with chorus",
+     "text": "SoG 787 · verses 1, 3, 4 & 5 with chorus",
      "margin": "16px 0 22px"
     },
     {
@@ -911,34 +884,7 @@
        "Shine through the darkness.",
        "Christ, be our light!",
        "Shine in Your church gathered today."
-      ]
-     ]
-    },
-    {
-     "type": "note",
-     "text": "CCLI Licence #309884"
-    }
-   ]
-  },
-  {
-   "label": "Offertory Hymn (3–4)",
-   "blocks": [
-    {
-     "type": "eyebrow",
-     "text": "Offertory Hymn"
-    },
-    {
-     "type": "h2",
-     "text": "Christ Be Our Light"
-    },
-    {
-     "type": "rubric",
-     "text": "SoG 787 · verses 4 & 5 with chorus",
-     "margin": "16px 0 22px"
-    },
-    {
-     "type": "hymn",
-     "verses": [
+      ],
       [
        "Longing for shelter, many are homeless",
        "Longing for warmth, many are cold.",
@@ -1458,7 +1404,7 @@
    ]
   },
   {
-   "label": "Receiving Communion (1–3)",
+   "label": "Receiving Communion",
    "blocks": [
     {
      "type": "eyebrow",
@@ -1470,7 +1416,7 @@
     },
     {
      "type": "rubric",
-     "text": "TIS 216 · verses 1–3",
+     "text": "TIS 216 · verses 1–5",
      "margin": "16px 0 22px"
     },
     {
@@ -1502,34 +1448,7 @@
        "Lift up your heart,",
        "lift up your voice,",
        "Rejoice, again I say, rejoice!"
-      ]
-     ]
-    },
-    {
-     "type": "note",
-     "text": "CCLI Licence #309884"
-    }
-   ]
-  },
-  {
-   "label": "Receiving Communion (4–5)",
-   "blocks": [
-    {
-     "type": "eyebrow",
-     "text": "Receiving Communion"
-    },
-    {
-     "type": "h2",
-     "text": "Rejoice, the Lord is King"
-    },
-    {
-     "type": "rubric",
-     "text": "TIS 216 · verses 4–5",
-     "margin": "16px 0 22px"
-    },
-    {
-     "type": "hymn",
-     "verses": [
+      ],
       [
        "He sits at God’s right hand",
        "till all his foes submit,",
@@ -1689,7 +1608,7 @@
    ]
   },
   {
-   "label": "Sending Hymn (1–2)",
+   "label": "Sending Hymn",
    "blocks": [
     {
      "type": "eyebrow",
@@ -1701,7 +1620,7 @@
     },
     {
      "type": "rubric",
-     "text": "TIS 215 · verses 1–2",
+     "text": "TIS 215 · verses 1–4",
      "margin": "16px 0 22px"
     },
     {
@@ -1726,34 +1645,7 @@
        "His triumph shall sing,",
        "Ascribing salvation",
        "To Jesus our King."
-      ]
-     ]
-    },
-    {
-     "type": "note",
-     "text": "CCLI Licence #309884"
-    }
-   ]
-  },
-  {
-   "label": "Sending Hymn (3–4)",
-   "blocks": [
-    {
-     "type": "eyebrow",
-     "text": "Sending Hymn"
-    },
-    {
-     "type": "h2",
-     "text": "You Servants of God"
-    },
-    {
-     "type": "rubric",
-     "text": "TIS 215 · verses 3–4",
-     "margin": "16px 0 22px"
-    },
-    {
-     "type": "hymn",
-     "verses": [
+      ],
       [
        "Salvation to God,",
        "Who sits on the throne!",
