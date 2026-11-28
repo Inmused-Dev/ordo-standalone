@@ -29,6 +29,11 @@ Routing lives in the shared Caddyfile (`armature-infra/provision/Caddyfile`):
    { "title": "Holy Communion", "date": "August 2026", "href": "liturgies/2026-08-holy-communion.html" }
    ```
 
+   Older dated services carry `"archived": true` and show in the collapsed
+   Archive section at the bottom of the index. Rule: keep the latest Sunday
+   service and anything newer; archive every older dated service. The
+   add-liturgy build script applies it on `--write-index` (or `--archive-only`).
+
 4. Commit, push, deploy:
 
    ```sh

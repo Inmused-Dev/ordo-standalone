@@ -67,6 +67,15 @@
       color: var(--text-subtle); margin-bottom: 10px;
     }
 
+    /* Archive — past dated services, collapsed at the bottom (archived: true in the manifest) */
+    .archive { margin-top: 40px; }
+    .archive summary {
+      cursor: pointer; padding: 12px 0;
+      font-size: 13px; font-weight: 700; letter-spacing: 0.04em;
+      color: var(--text-subtle);
+    }
+    .archive[open] summary { margin-bottom: 10px; }
+
     /* Liturgy cards — whole card is the tap target, sized for tablets in hand */
     .list { list-style: none; display: flex; flex-direction: column; gap: 12px; }
     .lit {
@@ -172,9 +181,11 @@
           ["pastoral", "Pastoral"],
         ];
         const known = new Set(GROUPS.map(([key]) => key));
+        const current = liturgies.filter((l) => !l.archived);
+        const archived = liturgies.filter((l) => l.archived);
 
         for (const [key, label] of GROUPS.concat([[null, "Other"]])) {
-          const inGroup = liturgies.filter((l) =>
+          const inGroup = current.filter((l) =>
             key ? l.group === key : !known.has(l.group)
           );
           if (inGroup.length === 0) continue;
@@ -189,6 +200,18 @@
           for (const l of inGroup) ul.append(card(l));
           section.append(heading, ul);
           list.append(section);
+        }
+
+        if (archived.length) {
+          const details = document.createElement("details");
+          details.className = "archive";
+          const summary = document.createElement("summary");
+          summary.textContent = `Archive (${archived.length})`;
+          const ul = document.createElement("ul");
+          ul.className = "list";
+          for (const l of archived) ul.append(card(l));
+          details.append(summary, ul);
+          list.append(details);
         }
       })
       .catch(() => {

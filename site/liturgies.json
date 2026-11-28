@@ -1,99 +1,121 @@
 [
   {
+    "title": "Sunday 29 November — Advent 1",
+    "date": "2026",
+    "group": "sunday",
+    "href": "liturgies/2026-11-29-holy-communion-advent-1.html"
+  },
+  {
     "title": "Sunday 22 November — Christ the King",
     "date": "2026",
     "group": "sunday",
-    "href": "liturgies/2026-11-22-holy-communion-christ-the-king.html"
+    "href": "liturgies/2026-11-22-holy-communion-christ-the-king.html",
+    "archived": true
   },
   {
     "title": "Funeral — Betty Chang",
     "date": "Friday 20 November 2026",
     "group": "pastoral",
-    "href": "liturgies/2026-11-20-funeral-betty-chang.html"
+    "href": "liturgies/2026-11-20-funeral-betty-chang.html",
+    "archived": true
   },
   {
     "title": "Sunday 15 November — Grace & Salvation",
     "date": "2026",
     "group": "sunday",
-    "href": "liturgies/2026-11-15-holy-communion-pentecost-25.html"
+    "href": "liturgies/2026-11-15-holy-communion-pentecost-25.html",
+    "archived": true
   },
   {
     "title": "Remembrance Day",
     "date": "11 November 2026 · civic service",
     "group": "pastoral",
-    "href": "liturgies/2026-11-11-remembrance-day.html"
+    "href": "liturgies/2026-11-11-remembrance-day.html",
+    "archived": true
   },
   {
     "title": "Sunday 8 November — Justice & Liberation",
     "date": "2026",
     "group": "sunday",
-    "href": "liturgies/2026-11-08-holy-communion-pentecost-24.html"
+    "href": "liturgies/2026-11-08-holy-communion-pentecost-24.html",
+    "archived": true
   },
   {
     "title": "Sunday 1 November — All Saints and All Souls",
     "date": "2026",
     "group": "sunday",
-    "href": "liturgies/2026-11-01-holy-communion-all-saints.html"
+    "href": "liturgies/2026-11-01-holy-communion-all-saints.html",
+    "archived": true
   },
   {
     "title": "Sunday 25 October — Grace & Salvation",
     "date": "2026",
     "group": "sunday",
-    "href": "liturgies/2026-10-25-holy-communion-pentecost-22.html"
+    "href": "liturgies/2026-10-25-holy-communion-pentecost-22.html",
+    "archived": true
   },
   {
     "title": "Sunday 18 October — Justice & Liberation",
     "date": "2026",
     "group": "sunday",
-    "href": "liturgies/2026-10-18-holy-communion-pentecost-21.html"
+    "href": "liturgies/2026-10-18-holy-communion-pentecost-21.html",
+    "archived": true
   },
   {
     "title": "Sunday 20 September — Grace & Salvation",
     "date": "2026",
     "group": "sunday",
-    "href": "liturgies/2026-09-20-holy-communion-pentecost-17.html"
+    "href": "liturgies/2026-09-20-holy-communion-pentecost-17.html",
+    "archived": true
   },
   {
     "title": "Sunday 13 September — Justice & Liberation",
     "date": "2026",
     "group": "sunday",
-    "href": "liturgies/2026-09-13-holy-communion-pentecost-16.html"
+    "href": "liturgies/2026-09-13-holy-communion-pentecost-16.html",
+    "archived": true
   },
   {
     "title": "Sunday 6 September — Reconciliation & Unity",
     "date": "2026",
     "group": "sunday",
-    "href": "liturgies/2026-09-06-holy-communion-pentecost-15.html"
+    "href": "liturgies/2026-09-06-holy-communion-pentecost-15.html",
+    "archived": true
   },
   {
     "title": "Sunday 30 August — St Aidan of Lindisfarne",
     "date": "2026",
     "group": "sunday",
-    "href": "liturgies/2026-08-30-holy-communion-st-aidan.html"
+    "href": "liturgies/2026-08-30-holy-communion-st-aidan.html",
+    "archived": true
   },
   {
     "title": "Sunday 23 August — Grace & Salvation",
     "date": "2026",
     "group": "sunday",
-    "href": "liturgies/2026-08-23-holy-communion-pentecost-13.html"
+    "href": "liturgies/2026-08-23-holy-communion-pentecost-13.html",
+    "archived": true
   },
   {
     "title": "Sunday 16 August — Justice & Liberation",
     "date": "2026",
     "group": "sunday",
-    "href": "liturgies/2026-08-16-holy-communion-pentecost-12.html"
+    "href": "liturgies/2026-08-16-holy-communion-pentecost-12.html",
+    "archived": true
   },
   {
     "title": "Sunday 9 August — Justice & Liberation",
     "date": "2026",
     "group": "sunday",
-    "href": "liturgies/2026-08-09-holy-communion-pentecost-11.html"
+    "href": "liturgies/2026-08-09-holy-communion-pentecost-11.html",
+    "archived": true
   },
   {
     "title": "Sunday 2 August — Grace & Salvation",
     "date": "2026",
     "group": "sunday",
-    "href": "liturgies/2026-08-02-holy-communion.html"
+    "href": "liturgies/2026-08-02-holy-communion.html",
+    "archived": true
   },
   {
     "title": "Holy Communion — Weekday",
